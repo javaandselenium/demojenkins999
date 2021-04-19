@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[hello python]]>
-    </line>
     <line>
       <![CDATA[hello selenium]]>
     </line>
@@ -11,57 +8,48 @@
       <![CDATA[hello java]]>
     </line>
     <line>
-      <![CDATA[hello api]]>
+      <![CDATA[hello python]]>
     </line>
     <line>
-      <![CDATA[hello appium]]>
+      <![CDATA[hello API]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-04-03T11:50:57 IST" name="Suite" finished-at="2021-04-03T11:50:57 IST" duration-ms="100">
+  <suite started-at="2021-04-19T18:57:36 IST" name="Suite" finished-at="2021-04-19T18:57:36 IST" duration-ms="122">
     <groups>
     </groups>
-    <test started-at="2021-04-03T11:50:57 IST" name="Test" finished-at="2021-04-03T11:50:57 IST" duration-ms="100">
-      <class name="demo123.Test0">
-        <test-method signature="demo()[pri:0, instance:demo123.Test0@17a7f733]" started-at="2021-04-03T11:50:57 IST" name="demo" finished-at="2021-04-03T11:50:57 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[hello java]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- demo123.Test0 -->
+    <test started-at="2021-04-19T18:57:36 IST" name="Test" finished-at="2021-04-19T18:57:36 IST" duration-ms="122">
       <class name="demo123.Test2">
-        <test-method signature="demo()[pri:0, instance:demo123.Test2@5609159b]" started-at="2021-04-03T11:50:57 IST" name="demo" finished-at="2021-04-03T11:50:57 IST" duration-ms="18" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[hello python]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- demo123.Test2 -->
-      <class name="demo123.Test1">
-        <test-method signature="demo()[pri:0, instance:demo123.Test1@2118cddf]" started-at="2021-04-03T11:50:57 IST" name="demo" finished-at="2021-04-03T11:50:57 IST" duration-ms="2" status="PASS">
+        <test-method signature="demo()[pri:0, instance:demo123.Test2@57250572]" started-at="2021-04-19T18:57:36 IST" name="demo" finished-at="2021-04-19T18:57:36 IST" duration-ms="29" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello selenium]]>
             </line>
           </reporter-output>
         </test-method> <!-- demo -->
-      </class> <!-- demo123.Test1 -->
-      <class name="demo123.Test4">
-        <test-method signature="demo()[pri:0, instance:demo123.Test4@68567e20]" started-at="2021-04-03T11:50:57 IST" name="demo" finished-at="2021-04-03T11:50:57 IST" duration-ms="1" status="PASS">
+      </class> <!-- demo123.Test2 -->
+      <class name="demo123.Test1">
+        <test-method signature="demo()[pri:0, instance:demo123.Test1@5609159b]" started-at="2021-04-19T18:57:36 IST" name="demo" finished-at="2021-04-19T18:57:36 IST" duration-ms="4" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[hello api]]>
+              <![CDATA[hello java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- demo123.Test1 -->
+      <class name="demo123.Test4">
+        <test-method signature="demo()[pri:0, instance:demo123.Test4@2118cddf]" started-at="2021-04-19T18:57:36 IST" name="demo" finished-at="2021-04-19T18:57:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello python]]>
             </line>
           </reporter-output>
         </test-method> <!-- demo -->
       </class> <!-- demo123.Test4 -->
       <class name="demo123.Test3">
-        <test-method signature="demo()[pri:0, instance:demo123.Test3@76ed1b7c]" started-at="2021-04-03T11:50:57 IST" name="demo" finished-at="2021-04-03T11:50:57 IST" duration-ms="2" status="PASS">
+        <test-method signature="demo()[pri:0, instance:demo123.Test3@17a7f733]" started-at="2021-04-19T18:57:36 IST" name="demo" finished-at="2021-04-19T18:57:36 IST" duration-ms="3" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[hello appium]]>
+              <![CDATA[hello API]]>
             </line>
           </reporter-output>
         </test-method> <!-- demo -->
