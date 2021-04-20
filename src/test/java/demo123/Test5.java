@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class Test5 {
 	@Test
 	public void demo() {
-		Reporter.log("hello guys ge",true);
+		Reporter.log("hello guys goodnoon",true);
 	}
 
 }
